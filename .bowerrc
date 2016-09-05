@@ -1,3 +1,4 @@
 {
-    "directory": "newauth/static/bower_components"
+    "directory": "newauth/static/bower_components",
+    "allow_root": true
 }
